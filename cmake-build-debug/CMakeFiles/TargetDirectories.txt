@@ -1,0 +1,3 @@
+/home/mena/CLionProjects/untitledA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mena/CLionProjects/untitledA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mena/CLionProjects/untitledA/cmake-build-debug/CMakeFiles/untitledA.dir
